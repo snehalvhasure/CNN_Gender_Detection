@@ -107,6 +107,16 @@ CNNs are used because they:
 
 ---
 
+## 🎯 Project Motivation
+Gender detection from facial images is a common computer vision task used in areas such as: 
+- Security systems
+- User analytics
+- Smart advertising systems 
+- Human-computer interaction
+This project was built to understand how Convolutional Neural Networks extract spatial features from images and classify them into meaningful categories.
+
+---
+
 ## ⚠️ Limitations
 
 - Model performance depends heavily on dataset quality
